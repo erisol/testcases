@@ -1,0 +1,22 @@
+{
+  "name": "testcases",
+  "version": "1.0.0",
+  "description": "Test testcases",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erisol/testcases.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erisol/testcases/issues"
+  },
+  "homepage": "https://github.com/erisol/testcases#readme",
+  "dependencies": {
+    "mocha": "^5.2.0"
+  }
+}
